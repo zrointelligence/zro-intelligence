@@ -55,7 +55,7 @@ This is a software layer. It sits between your existing model and your existing 
 | What | Where |
 |------|-------|
 | Core compiler — proof of concept | Done |
-| Memory benchmark on GPU hardware | Done — 60%+ confirmed |
+| Memory benchmark on GPU hardware | Done — 96%+ confirmed on GPT-2 |
 | Scaling behavior at long context | Done — linear confirmed |
 | Full model integration | In progress |
 | Output quality validation | In progress |
