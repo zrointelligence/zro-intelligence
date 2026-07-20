@@ -107,6 +107,8 @@ Pretrained weight initialization — starts from model's own Q/K/V projections
 Quick Start
 Colab (Recommended — zero setup)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o6uQmAK5-MPgakmalBaQuH7hXzfrk_v_?usp=sharing)
+
 Local
 pip install torch transformers datasets
 python zro_compile_v2.py --model gpt2 --mode full
